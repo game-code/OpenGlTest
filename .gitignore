@@ -1,3 +1,14 @@
 *.vs
 
 *.sln
+
+*.exe
+
+Debug
+packages
+OpenGL_Test/Debug
+
+OpenGL_Test/*.vcxproj
+OpenGL_Test/*.filters
+OpenGL_Test/*.user
+OpenGL_Test/*.config
